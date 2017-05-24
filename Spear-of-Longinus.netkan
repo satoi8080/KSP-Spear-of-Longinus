@@ -1,11 +1,11 @@
 {
-    "spec_version" : 1,
+    "spec_version": 1,
     "identifier": "Spear-of-Longinus",
-    "name"	: "Spear of Longinus"
-    "$kref": "#/ckan/github/<satoi8080>/<KSP-Spear-of-Longinus>",
+    "name": "Spear of Longinus"
+    "$kref": "#/ckan/github/satoi8080/KSP-Spear-of-Longinus",
     "license": "CC BY-NC-ND 4.0",
     "ksp_version": "1.2.2",
-    "resources":  {
+    "resources": {
         "homepage": "<https://github.com/satoi8080/KSP-Spear-of-Longinus>"
     }
 }
