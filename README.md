@@ -1,6 +1,6 @@
 # KSP-Spear-of-Longinus
 
-##Introduction
+## Introduction
 
 This is a fan-made MOD of Neon Genesis Evangelion inspired by the official[ 20th anniversary plan](https://readyfor.jp/projects/evangelion).
 
@@ -12,11 +12,11 @@ This mod includes a Spear of Longinus part and a Nerv flag.
 
 [Archve Link](https://archive.org/details/SpearofLonginus-0.7)
 
-##Installation
+## Installation
 
 Unzip and put it in the GameData folder. You can find it in the Utilities in game.
 
-##Credit
+## Credit
 
 In-game tooltip description from:
 
