@@ -10,7 +10,9 @@ This mod includes a Spear of Longinus part and a Nerv flag.
 
 [Ofiicial Thread Link](http://forum.kerbalspaceprogram.com/index.php?/topic/99734-090spear-of-longinus/)
 
-[Archve Link](https://archive.org/details/SpearofLonginus-0.7)
+[CurseForge Link](https://kerbal.curseforge.com/projects/spear-of-longinus)
+
+[Curse Link](https://mods.curse.com/ksp-mods/kerbal/268793-spear-of-longinus)
 
 ## Installation
 
