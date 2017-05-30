@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a fan-made Kerbal Space Program MOD of Neon Genesis Evangelion inspired by the official[ 20th anniversary plan](https://readyfor.jp/projects/evangelion).
+This is a fan-made Kerbal Space Program MOD of Neon Genesis Evangelion inspired by the official [20th anniversary plan](https://readyfor.jp/projects/evangelion).
 
 But we are faster than the official plan XD. (I wrote this in 2015 and  after that the official plan was canceled due to insufficient funds)
 
