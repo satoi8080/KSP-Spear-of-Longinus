@@ -28,3 +28,11 @@ Flag picture from:
 
 http://wiki.evageeks.org/File:Nerv_Logo.png
 
+## Screenshots
+
+![400x400](/media/400x400-1.jpg)
+![768x768](/media/768x768.png)
+![2015-02-15_00015](/media/2015-02-15_00015.jpg)
+![2015-02-15_00049](/media/2015-02-15_00049.jpg)
+![2015-02-15_00119](/media/2015-02-15_00119.jpg)
+
